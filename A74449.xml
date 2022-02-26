@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for several lands and estates forfeited to the Commonvvealth for treason, appointed to be sold for the use of the Navy. Wednesday, 4th August, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74449</idno>
+            <idno type="STC">Thomason E1061_73</idno>
+            <idno type="STC">ESTC R209352</idno>
+            <idno type="EEBO-CITATION">99868235</idno>
+            <idno type="PROQUEST">99868235</idno>
+            <idno type="VID">169122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169122)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for several lands and estates forfeited to the Commonvvealth for treason, appointed to be sold for the use of the Navy. Wednesday, 4th August, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1677-1689.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 12Z2r: last word of first line of text: "William"; first word of line below initial: "County"; last word of last full line: "Northumberland,".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169122:1" rendition="simple:additions"/>
+            <p>AN ACT FOR SEVERAL Lands and Eſtates Forfeited to the COMMONWEALTH FOR TREASON, Appointed to be ſold For the uſe of the NAVY.</p>
+            <figure/>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Wedneſday, 4<hi rend="sup">th</hi> Auguſt, 1652.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by the Parliament, That this Act be forthwith Print<g ref="char:EOLhyphen"/>ed and Publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:169122:2"/>
+            <pb n="1677" facs="tcp:169122:2" rendition="simple:additions"/>
+            <head>AN ACT For ſeveral Lands and Eſtates Forfeited to the COMMONWEALTH FOR TREASON, Appointed to be ſold for the uſe of the NAVY.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Eſtates of <hi>William</hi> Lord <hi>Craven, Thomas Cook</hi> of <hi>Grays-Inn</hi> in the County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Forcer</hi> of <hi>Haber<g ref="char:EOLhyphen"/>houſe</hi> in the County of <hi>Durham, Ralph Pudſey</hi> of <hi>Stapleton</hi> in the County of <hi>Durham, Robert Blundel</hi> of <hi>Ince-Blun<g ref="char:EOLhyphen"/>del</hi> in the County of <hi>Lancaſter, Thomas Clifton</hi> of <hi>Litham</hi> in the County of <hi>Lancaſter, Richard Maſſey</hi> of <hi>Rixam</hi> in the County of <hi>Lancaſter, Ed<g ref="char:EOLhyphen"/>ward Scaſebrook</hi> of <hi>Scaſebrook</hi> in the County of <hi>Lancaſter, George Smith</hi> of <hi>Quenneborough</hi> in the County of <hi>Leiceſter, John Jones</hi> of <hi>Dingaſtow</hi> in the County of <hi>Monmouth, Lancelot Errington</hi> of <hi>Eaſt Denton</hi> in the County of <hi>Northumberland, Nicholas Errington</hi> of <hi>Pont-Iſland</hi> in the County of <hi>Northumberland, Henry Errington</hi> of <hi>Befront</hi> in the County of <hi>Northumberland, John Lawſon</hi> of <hi>St. Anthonies</hi> in the County of <hi>Northumberland,</hi>
+               <pb n="1678" facs="tcp:169122:3"/>Sir <hi>Edward Ratcliff</hi> of <hi>Dilſton</hi> in the County of <hi>Northumberland</hi> Knight and Baconet, <hi>Peter Gifford</hi> of <hi>Chillington</hi> in the County of <hi>Stafford, Walter Fowler</hi> of <hi>St. Thomas</hi> in the County of <hi>Stafford, Thomas Brook</hi> of <hi>Madely</hi> in the County of <hi>Salop, John Weſton</hi> of <hi>Maze</hi> in the County of <hi>Surrey, Philip Hungate</hi> of <hi>Saxton</hi> in the County of <hi>York, Robert Dolman</hi> of <hi>Badſworth</hi> in the County of <hi>York, Francis Biddulph</hi> of <hi>Biddulph</hi> in the County of <hi>Stafford, Philip Anne</hi> of <hi>Bur<g ref="char:EOLhyphen"/>wallis</hi> in the County of <hi>York,</hi> Sir <hi>Walter Vava<g ref="char:EOLhyphen"/>ſor</hi> of <hi>Haſlewood</hi> in the County of <hi>York, William Middleton</hi> of <hi>Stockhal</hi> in the County of <hi>York, John Wiſeman</hi> of <hi>Wimbiſh</hi> in the County of <hi>Eſſex</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Henry Killigrew</hi> of <hi>Lanrack</hi> in the County of <hi>Cornwal,</hi> Sir <hi>Henry Farrar</hi> of <hi>Skillingthorp</hi> in the County of <hi>Lincoln,</hi> and <hi>Henry</hi> late Viſcount <hi>Dunbar</hi> of <hi>Holdernes</hi> in the County of <hi>York</hi> deceaſed, Have been, and are hereby Declared and Adjudged to be juſtly forfeited by them for their ſeveral Treaſons againſt the Parlia<g ref="char:EOLhyphen"/>ment and People of <hi>England;</hi> Be it therefore Enacted by this preſent Parliament, and the Authority thereof, That all the Manors, Lands, Tenements and Hereditaments, with their &amp; every of their Appurtenances whatſo<g ref="char:EOLhyphen"/>ever, which they the ſaid <hi>William</hi> Lord <hi>Craven, Thomas Cook, John Forcer, Ralph Pudſey, Robert Blundel, Thomas Clifton, Richard Maſſey, Edward Scaſebrook, George Smith, John Jones, Lancelot Errington, Nicholas Errington, Henry Errington, John Lawſon,</hi> Sir <hi>Edward Ratcliff, Peter Gifford, Walter Fowler, Thomas Brook, John Weſton, Phi<g ref="char:EOLhyphen"/>lip Hungate, Robert Dolman, Francis Biddulph, Phi<g ref="char:EOLhyphen"/>lip Anne,</hi> ſir <hi>Walter Vavaſor, William Middleton, John Wiſeman, Henry Killigrew,</hi> ſir <hi>Henry Farrar</hi> and <hi>Henry</hi> late Viſcount <hi>Dunbar,</hi> or any of
+<pb n="1679" facs="tcp:169122:3"/>them, or any for their uſe or uſes, or in truſt for any of them, were ſeized or poſſeſſed of in Poſſeſsion, Reverſion or Remainder, on the Twentieth day of <hi>May.</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty two, or at any time ſince; And all Rights of Entry, and the whole Eſtates, Rights, Titles and Intereſts of them and every of them, in or to the ſaid Manors, Lands, Tenements or Hereditaments, which they or any of them had the ſaid Twentieth day of <hi>May,</hi> One thouſand ſix hundred forty two, or at any time ſince (Excepting Rectories impropriate, Tythes, Compoſition for tythes, Portions of Tythes, Donatives, Oblations, Obventions and Rents iſſuing out of tythes) Be and are hereby Veſted, Adjudged and Deemed to be, and are hereby in the real and actual poſſeſsion and ſeizin of <hi>William Skinner, William Robinſon, Sampſon Sheffeild, Samuel Goo<g ref="char:EOLhyphen"/>king, Henry Sealy, William Liſle</hi> and <hi>Arthur Samuel,</hi> 
+               <abbr>Eſqs</abbr> and the Survivors and Survivor of them, and their Heirs and Aſsigns; And that they and the ſurvivors and ſurvivor of them and their Heirs, ſhall and may have the Be<g ref="char:EOLhyphen"/>nefit and Advantage of the ſaid Rights of Entry unto the ſaid Manors, Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments, and every of them; And that they, their Heirs and Aſsigns, ſhall hold all and every part and parcel of the ſaid premiſes of the Manor of <hi>Eaſt Greenwich,</hi> in free and common Soccage by Fealty onely, and by no other Tenure or Service whatſo<g ref="char:EOLhyphen"/>ever: Nevertheleſs upon truſt and confidence, That the ſaid <hi>William Skinner</hi> and other the per<g ref="char:EOLhyphen"/>ſons aforenamed, or any five or more of them ſhall have, hold and enjoy all and ſingular the premiſes and every of them, for the onely Vſe
+<pb n="1680" facs="tcp:169122:4"/>and Benefit of the Navy; Saving to all and every perſon and perſons, Bodies Politique and Corporate, their Heirs, Succeſſors, Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators and Aſsigns, and eve<g ref="char:EOLhyphen"/>ry of them (other then the ſaid <hi>William</hi> Lord <hi>Craven, Thomas Cook, John Forcer, Ralph Pudſey, Robert Blundel, Thomas Clifton, Richard Maſſey, Edward Scaſebrook, George Smith, John Jones, Lancelot Errington, Nicholas Errington, Henry Er<g ref="char:EOLhyphen"/>rington, John Lawſon,</hi> ſir <hi>Edward Ratcliff, Peter Gifford, Walter Fowler, Thomas Brook, John We<g ref="char:EOLhyphen"/>ſton, Philip Hungate, Robert Dolman, Francis Bid<g ref="char:EOLhyphen"/>dulph, Philip Anne,</hi> ſir <hi>Walter Vavaſor, William Middleton, John Wiſeman, Henry Killigrew,</hi> ſir <hi>Hen<g ref="char:EOLhyphen"/>ry Farrar</hi> and <hi>Henry</hi> late Viſcount <hi>Dunbar</hi> or any of them, and all others claiming and to claim by, from or under them or any of them, ſince the Twentieth day of <hi>May</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty two; and other then the Rights and Title of Dower of the reſpective Wife and Wives of them or any of them) All ſuch Eſtates, Intereſts, Rents, Incumbran<g ref="char:EOLhyphen"/>ces, Charges, Rights in Law or Equity, which they or any of them had or ought to have had, in or to the ſaid Manors, Lands, Tenements or Hereditaments or any of them, before the ſaid Twentieth day of <hi>May,</hi> One thouſand ſix hundred forty two; As alſo all and every the Eſtates and Intereſts given, granted, de<g ref="char:EOLhyphen"/>miſed, allowed of or confirmed by any Act, Order or Ordinance of Parliament, or law<g ref="char:EOLhyphen"/>ful Authority derived from them, unto any perſon or perſons, Body Politique or Corpo<g ref="char:EOLhyphen"/>rate, who have conſtantly adhered and been faithful to this Parliament, and whoſe E<g ref="char:EOLhyphen"/>ſtates have not otherwiſe been revoked or al<g ref="char:EOLhyphen"/>tered by this Parliament: If ſuch perſon or
+<pb n="1681" facs="tcp:169122:4"/>perſons, Bodies Politique or Corporate, their Heirs, Succeſſors or Aſſigns, do before the Firſt day of <hi>October,</hi> which ſhall be in the year One thouſand ſix hundred fifty and two, de<g ref="char:EOLhyphen"/>liver in writing unto the Commiſſioners ap<g ref="char:EOLhyphen"/>pointed by an Act, Entituled, <hi>An Act for Tranſ<g ref="char:EOLhyphen"/>ferring the Powers of the Committees for Obſtructi<g ref="char:EOLhyphen"/>ons,</hi> or any four or more of them, a Particular of ſuch his or their Right, Title, Intereſt, Claim, Demand, Incumbrance or Eſtate in Law or Equity, and ſhall obtain an Allow<g ref="char:EOLhyphen"/>ance thereof by the ſaid Commiſſioners or any four or more of them, at or before the Firſt day of <hi>November,</hi> which ſhall be in the year of our Lord God, One thouſand ſix hundred fif<g ref="char:EOLhyphen"/>ty and two; which ſaid Commiſſioners are hereby appointed to be Commiſſioners for re<g ref="char:EOLhyphen"/>moving of Obſtructions in the Sale of all and every the premiſes hereby appointed to be ſold; And ſhall have, uſe and exerciſe all and every the like Powers and Authorities in reference to the premiſes hereby appointed to be ſold, as the ſaid Commiſsioners may or ought to do in relation to the ſale of any other the Lands and Eſtates in an Act, Entituled, <hi>An Act for Sale of ſeveral Lands and Eſtates forfeited to the Com<g ref="char:EOLhyphen"/>monwealth for Treaſon,</hi> mentioned; And the Truſtees, Treaſurers, Regiſter, Regiſter-Accomptant, Surveyor-General, and all other perſons imployed in and about this Ser<g ref="char:EOLhyphen"/>vice, are Required to obſerve ſuch Orders and Directions as from time to time they ſhall re<g ref="char:EOLhyphen"/>ceive from the ſaid Commiſsioners; And the ſaid Commiſſioners ſhall and may allow all in<g ref="char:EOLhyphen"/>cident charges for the neceſſary carrying on of this ſervice; And the ſaid Truſtees or any five or more of them reſpectively, ſhall and may,
+<pb n="1682" facs="tcp:169122:5"/>and are hereby required and authorized to contract, bargain, ſell, alien and convey, All and every the ſaid Manors and Premiſes, and to execute all Powers and Authorities in the ſale thereof, according to the Rates and Proportions, Rules and Directions limited and expreſſed in the ſaid former Act for Sale of ſeveral Lands and Eſtates forfeited to the Commonwealth for Treaſon, and in ſuch maner as they may or might have done in the Sale of any the Manors or Lands veſted and ſetled in them by the aforeſaid Act: And that all and every Bargains and Sales, Conveyances and Aſſurances to be made of any Eſtate or Eſtates in Fee-ſimple, or for term of Life or Lives of any the premiſes, according to ſuch Contracts as ſhall be agreed upon between the Purchaſer or Purchaſers, and the ſaid Truſtees, or any five or more of them reſpectively, ſhall be good and effectual in Law, to all intents and purpoſes: And all and every Purchaſer and Purchaſers of the Premiſes, or any part thereof, his and their Heirs, Succeſſors and Aſſigns reſpe<g ref="char:EOLhyphen"/>ctively, ſhall have, hold and enjoy the premi<g ref="char:EOLhyphen"/>ſes that ſhall be by him or them ſo Purchaſed, diſcharged of all Truſts and Accompts, whereunto the ſaid Truſtees, or any or either of them, are or may be lyable by vertue of this Act; and of all Suits and Queſtions that may ariſe, or be moved upon pretence of Sale at Vndervalues; and of all Claims and De<g ref="char:EOLhyphen"/>mands whatſoever; and of all Incumbran<g ref="char:EOLhyphen"/>ces made by the ſaid Truſtees, or any claiming under them or any of them: And that the ſame ſhall not be lyable unto, but freed and diſcharged of and from all and all maner of
+<pb n="1683" facs="tcp:169122:5"/>Statutes, Iudgements, Recognizances, Dowers, Ioyntures, and other Acts and Incumbrances whatſoever, had, made, done or ſuffered, or to be had, made, done or ſuffer<g ref="char:EOLhyphen"/>ed, by, from or under the ſaid Truſtees, or any of them reſpectively, other then ſuch Conveyances and Aſſurances as ſhall be had, made, done or ſuffered, in performance and purſuance of the Sales and Contracts re<g ref="char:EOLhyphen"/>ſpectively made, according to the meaning of this preſent Act. And if any Action ſhall be brought againſt the ſaid Truſtees, Treaſu<g ref="char:EOLhyphen"/>rers, or other Officers or Officer, or any of them in execution of this Act, or any for<g ref="char:EOLhyphen"/>mer Act, Ordinance, Orders or Inſtructions whereunto it relates; That then he or they are hereby enabled to plead the General Iſſue, and to give this Act in Evidence: And if Iudgement ſhall be had for the Defendant or Defendants in ſuch Action, he and they ſhall recover double Coſts. And whereas the Par<g ref="char:EOLhyphen"/>liament do finde it neceſſary to raiſe a conſide<g ref="char:EOLhyphen"/>rable Sum of Money for the carrying on the Services of the Navy, Be it therefore En<g ref="char:EOLhyphen"/>acted, That the ſum of Two hundred thou<g ref="char:EOLhyphen"/>ſand pounds ſhall be borrowed upon the Se<g ref="char:EOLhyphen"/>curity of the Lands of the ſaid perſons, whoſe Eſtates are by this Act appointed to be ſold by way of doubling, the like ſum as it is or ſhall be due unto any perſon or perſons, body politique or corporate, upon the Publique Faith; or which might have been Doubled by vertue of any Act, Order or Ordinance of this preſent Parliament, and hath not formerly been Doubled upon the credit of Biſhops, and Deans and Chapters Lands; or upon the
+<pb n="1684" facs="tcp:169122:6"/>Lands of the late King, Queen and Prince; or upon the Fee-Farm Rents: And that all and every perſon and perſons, Body Politique or Corporate, for every ſum or ſums of Mo<g ref="char:EOLhyphen"/>ney he or they ſhall further lend, may and ſhall be ſecured the moneys formerly owing as aforeſaid; And ſuch other moneys as he or they ſhall advance for the raiſing of Two hun<g ref="char:EOLhyphen"/>dred thouſand pounds, upon the Lands of the ſaid perſons in this Act named, in ſuch ſort as by the beforementioned Act, Entituled, <hi>An Act for the Sale of ſeveral Lands and Eſtates forfeited to the Commonwealth for Treaſon,</hi> is Enacted or Provided: And the ſaid Truſtees are hereby Impowred and Authorized to purſue the Rules and Inſtructions for Doubling of money, as is appointed and declared in the ſeveral Acts of this preſent Parliament for the ſale of Dean and Chapters Lands. And be it ſurther Enacted, That Sir <hi>John Wolla<g ref="char:EOLhyphen"/>ſton</hi> Kt. and Alderman of the City of <hi>London, Thomas Andrews, John Dethick</hi> and <hi>Francis Al<g ref="char:EOLhyphen"/>lein,</hi> Aldermen of the ſaid City, ſhall be Trea<g ref="char:EOLhyphen"/>ſurers for the ſaid Service; and that they or any two of them, are hereby impowred and authorized to receive the ſaid Two hundred thouſand pounds, and all other ſuch ſum and ſums of money as from time to time ought to be paid in to the Treaſury by vertue of this Act, which ſhall be iſſued out and paid accord<g ref="char:EOLhyphen"/>ing to ſuch Orders, Warrants, Directions &amp; Inſtructions, as they ſhall from time to time receive from the Parliament, for the uſe of the Navy as aforeſaid. And be it further Enact<g ref="char:EOLhyphen"/>ed by the Authority aforeſaid, That the Regi<g ref="char:EOLhyphen"/>ſter named in the ſaid Act (Entituled <hi>An Act for
+<pb n="1685" facs="tcp:169122:6"/>the Sale of ſeveral Lands and Eſtates, forfeited to the Commonwealth for Treaſon</hi>) and his Deputy, are hereby authorized and required, upon a War<g ref="char:EOLhyphen"/>rant or Warrants from the ſaid Truſtees, to make out, rate and ſign, one or more Particu<g ref="char:EOLhyphen"/>lars of all and every the premiſes hereby ap<g ref="char:EOLhyphen"/>pointed to be ſold: And that the reſpective Truſtees do upon ſuch Particular proceed to Contract with any Purchaſer or Purchaſers for the ſame, and to make ſale thereof accord<g ref="char:EOLhyphen"/>ingly. And be it further Enacted and Ordain<g ref="char:EOLhyphen"/>ed, That the reſpective Truſtees, Treaſu<g ref="char:EOLhyphen"/>rers, Regiſter, Regiſter-Accomptant, and Surveyor-General, named in the aforeſaid <hi>Act for ſale of ſeveral Lands and Eſtates forfeit<g ref="char:EOLhyphen"/>ed to the Commonwealth for Treaſon,</hi> ſhall do, ex<g ref="char:EOLhyphen"/>ecute, obſerve and keep, all and every the like powers, Authorities, Orders, Directions and Inſtructions, in relation to the premiſes here<g ref="char:EOLhyphen"/>by appointed to be ſold, or any of them, as they and every of them ought to do, or to have done in reference to other the Manors, Lands, Tenenements and Hereditaments of the ſaid Traytors and perſons in the ſaid former Act mentioned; and ſhall have and receive ſuch and the like Salaries and Fees for them and their Clerks reſpectively, and in ſuch ſort and maner, as they and every of them reſpectively are and ought to have and receive for their re<g ref="char:EOLhyphen"/>ſpective Services and Imployments, touch<g ref="char:EOLhyphen"/>ing the ſale of other the Manors, Lands, Te<g ref="char:EOLhyphen"/>nements and Hereditaments, by the aforeſaid Act appointed to be ſold.</p>
+            <p>Provided alſo, That if any perſon or per<g ref="char:EOLhyphen"/>ſons ſhall Double any ſum of money upon for<g ref="char:EOLhyphen"/>ged Debentures, or other falſe Certificates, or
+<pb n="1686" facs="tcp:169122:7"/>any other fraudulent way or means, and there<g ref="char:EOLhyphen"/>of ſhal be convicted by oath before the Commiſ<g ref="char:EOLhyphen"/>ſioners for Obſtructions, within one year af<g ref="char:EOLhyphen"/>ter ſuch Doubling, every ſuch perſon ſo offend<g ref="char:EOLhyphen"/>ing ſhall forfeit treble the ſaid Sum, the one Moyety thereof to the uſe of the Common<g ref="char:EOLhyphen"/>wealth, and the other Moyety to ſuch perſon or perſons as ſhall diſcover the ſame before the ſaid Commiſsioners for Obſtructions in this Act named, and ſhall be committed to priſon, and his Eſtate ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>queſtred by the ſaid Com<g ref="char:EOLhyphen"/>miſsioners for Obſtructions until payment thereof.</p>
+            <p>Provided always, and be it further Enacted, That all and every perſon or perſons having any Eſtate, Right, Title or Intereſt, of, in or unto any the Lands, Tenements or Here<g ref="char:EOLhyphen"/>ditaments by this Act intended or mentioned to be put to Sale, or that hath any Statute, Iudgement, Recognizance or Rent which were without fraud, and for good and valua<g ref="char:EOLhyphen"/>ble Conſideration had, made and acknow<g ref="char:EOLhyphen"/>ledged before any Treaſon reſpectively com<g ref="char:EOLhyphen"/>mitted by any of the perſons in this Act na<g ref="char:EOLhyphen"/>med, whoſe Eſtates are appointed to be ſold, and ſhall obtain an Allowance thereof by the ſaid Commiſsioners for removing of Obſtru<g ref="char:EOLhyphen"/>ctions, before the Firſt day of <hi>December,</hi> One thouſand ſix hundred fifty and two, That then the ſame ſhall be good and effectual to ſuch perſon or perſons, their Executors, Admini<g ref="char:EOLhyphen"/>ſtrators and Aſsigns reſpectively, to all In<g ref="char:EOLhyphen"/>tents and Purpoſes, according to the Tenor thereof, Any thing in this Act to the contrary in any wiſe notwithſtanding.</p>
+            <p>And be it further Enacted by this preſent
+<pb n="1687" facs="tcp:169122:7"/>Parliament, and by Authority thereof, That all Reverſions and Remainders expectant upon any Eſtate Tail, upon any Conveyance made by the ſaid Traitor or Traitors, or any other perſon or perſons, by or under whom they or any of them Claim, of any the Manors, Lands, Tenements or Hereditaments of any the Traitor or Traitors in this Act, or in the aforeſaid <hi>Act for Sale of ſeveral Lands and Eſtates forfeited to the Commonwealth for Treaſon,</hi> named, not actually beſted in the poſſeſsion of ſuch Tenant in Tail by the death of ſuch Traitor or Traitors, before the Five and twentieth day of <hi>March,</hi> One thouſand ſix hundred fifty two, which by Fine and Recovery might be Docqued by any of the ſaid Traitor or Trai<g ref="char:EOLhyphen"/>tors, are and ſhall be to all Intents and Pur<g ref="char:EOLhyphen"/>poſes Forfeited for their ſaid Treaſons; And as well the ſaid Traitors and their Heirs and Aſſigns, and all other perſons and their heirs in Reverſion or Remainder upon any ſuch Eſtate, ſhall be for ever barred, as if ſuch Traitor or Traitors had actually levied a Fine, and ſuffered a Recovery for doing there<g ref="char:EOLhyphen"/>of, Any Allowance, Law, Statute or Vſage to the contrary in any wiſe notwithſtanding.</p>
+            <p>Provided always, and be it further Enact<g ref="char:EOLhyphen"/>ed, That the Truſtees in this Act named, ſhall be, and are hereby Authorized and Required to Convey unto <hi>George Joyce</hi> of <hi>Portland,</hi> in the County of <hi>Dorſet</hi> 
+               <abbr>Eſq</abbr> his Heirs and Aſſigns for ever, Lands, Tenements and Heredita<g ref="char:EOLhyphen"/>ments appointed by this Act to be ſold, of the clear Yearly value of One hundred pounds <hi>per Annum,</hi> over and above all Charges and Repriſes, any thing in this or any former Act
+<pb n="1688" facs="tcp:169122:8"/>contained to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>Provided alſo, That this Act nor any thing therein contained, ſhall not extend nor be pre<g ref="char:EOLhyphen"/>judicial unto, bar or deſtroy, extinguiſh nor take away any Right, Intereſt, Reverſion or Remainder ſaved or preſerved, or mention<g ref="char:EOLhyphen"/>ed or intended to be ſaved or preſerved unto <hi>Charls Fleetwood</hi> 
+               <abbr>Eſq</abbr> and unto <hi>Frances</hi> his late wife, their or either of their Heirs or Aſſigns, unto any Manors, Lands, Tenements or Hereditaments whatſoever, mentioned in or by the late <hi>Act for Sale of ſeveral Lands and Eſtates forfeited to the Commonwealth for Treaſon,</hi> by Order of Parliament publiſhed the Sixteenth day of <hi>July,</hi> One thouſand ſix hundred fifty and one.</p>
+            <p>Provided nevertheleſs, and it is further Enacted, That in recompence and ſatisfacti<g ref="char:EOLhyphen"/>on of ſuch Iudgements, Statutes, Recogni<g ref="char:EOLhyphen"/>zances, Mortgages and other Iucumbrances, as by the true intent and proviſion of this Act are to be ſatisfied; The ſaid Truſtees or any five or more of them, upon the return of the reſpective Surveys, are hereby Impowred and Authorized to ſet out ſuch proportion of the Lands ſo ſurveyed, as will be ſutficient to ſatisfie ſuch Incumbrance and Incumbran<g ref="char:EOLhyphen"/>ces; And after ſuch Incumbrances proved, and the Debts allowed of by the Commiſsion<g ref="char:EOLhyphen"/>ers for removing of Obſtructions, to ſell and convey ſuch proportionable Part of the ſaid Lands ſo furveyed, to ſuch Creditor or Credi<g ref="char:EOLhyphen"/>tors or their Aſſigns, in recompence and ſatiſ<g ref="char:EOLhyphen"/>faction of ſuch Incumbrance and Incum<g ref="char:EOLhyphen"/>brances, either for Life, Lives, Years or in
+<pb n="1689" facs="tcp:169122:8"/>Fee; the ſaid Truſtees taking care in ſatisfy<g ref="char:EOLhyphen"/>ing ſuch Incumbrances, to ſatisfie the ſame in ſuch priority and courſe as the ſame ought to be ſatisfied by the Laws of this Land; and upon ſuch Conveyance and Conveyances made, the ſaid Creditor and Creditors, their Heirs, Executors, Adminiſtrators or Aſſigns, ſhall acknowledge Satisfaction upon Record, or otherwiſe releaſe and diſcharge ſuch Iudge<g ref="char:EOLhyphen"/>ments, Statutes, Recognizances, Mortga<g ref="char:EOLhyphen"/>ges and other Incumbrances reſpectively, as the Councel of the ſaid Truſtees and for the Commonwealth ſhall direct and adviſe: And ſuch Acknowledgement, Releaſe and Diſ<g ref="char:EOLhyphen"/>charge ſhall be good and effectual in Law to diſcharge the ſaid Debts and Incumbrances, as againſt the reſidue of the ſaid Lands in<g ref="char:EOLhyphen"/>tended to be ſold by this Act, Any Law, Sta<g ref="char:EOLhyphen"/>tute or Vſage to the contrary in any wiſe not<g ref="char:EOLhyphen"/>withſtanding.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>VVedneſday, 4<hi rend="sup">th</hi> 
+                     <hi>Auguſt,</hi> 1652.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
